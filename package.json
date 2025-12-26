@@ -1,0 +1,18 @@
+{
+  "name": "ratquest-express",
+  "version": "1.0.0",
+  "description": "Ratquest Trace SDK for express.js",
+  "keywords": [
+    "ratquest-express"
+  ],
+  "license": "MIT ",
+  "author": "https://github.com/Akthar99",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
