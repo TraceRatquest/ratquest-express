@@ -1,5 +1,6 @@
 {
   "name": "ratquest-express",
+  "repository": {"type": "github", "url": "https://github.com/TraceRatquest/ratquest-express"},
   "version": "1.0.0",
   "description": "Ratquest Trace SDK for express.js",
   "keywords": [
